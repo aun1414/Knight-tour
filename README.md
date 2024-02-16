@@ -11,7 +11,9 @@ The paper is given below<br>
 <img width="606" alt="20x20Closed" src="https://github.com/aun1414/Knight-tour/assets/106032365/aeedb105-b7f6-4139-89a9-8a460751f6c2">
 
 <h3>Graph of performance</h3>.
-![graph](https://github.com/aun1414/Knight-tour/assets/106032365/f3942866-3564-461c-bd9f-8c96799e7cd4)
+![image](https://github.com/aun1414/Knight-tour/assets/106032365/691b9b5b-53c2-4990-88bb-115dbb2562df)
+
+
 
 
  
